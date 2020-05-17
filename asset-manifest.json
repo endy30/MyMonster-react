@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MyMonster-react/static/css/main.c9ddd7e7.chunk.css",
-    "main.js": "/MyMonster-react/static/js/main.45d7975c.chunk.js",
-    "main.js.map": "/MyMonster-react/static/js/main.45d7975c.chunk.js.map",
+    "main.js": "/MyMonster-react/static/js/main.34d08741.chunk.js",
+    "main.js.map": "/MyMonster-react/static/js/main.34d08741.chunk.js.map",
     "runtime-main.js": "/MyMonster-react/static/js/runtime-main.37e66f10.js",
     "runtime-main.js.map": "/MyMonster-react/static/js/runtime-main.37e66f10.js.map",
     "static/js/2.1b35cb52.chunk.js": "/MyMonster-react/static/js/2.1b35cb52.chunk.js",
     "static/js/2.1b35cb52.chunk.js.map": "/MyMonster-react/static/js/2.1b35cb52.chunk.js.map",
     "index.html": "/MyMonster-react/index.html",
-    "precache-manifest.0340a0df9e9aa81a4a857b2ef4e4ced9.js": "/MyMonster-react/precache-manifest.0340a0df9e9aa81a4a857b2ef4e4ced9.js",
+    "precache-manifest.9b18e03424a65a42357a6c6a9c36e519.js": "/MyMonster-react/precache-manifest.9b18e03424a65a42357a6c6a9c36e519.js",
     "service-worker.js": "/MyMonster-react/service-worker.js",
     "static/css/main.c9ddd7e7.chunk.css.map": "/MyMonster-react/static/css/main.c9ddd7e7.chunk.css.map",
     "static/js/2.1b35cb52.chunk.js.LICENSE.txt": "/MyMonster-react/static/js/2.1b35cb52.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.37e66f10.js",
     "static/js/2.1b35cb52.chunk.js",
     "static/css/main.c9ddd7e7.chunk.css",
-    "static/js/main.45d7975c.chunk.js"
+    "static/js/main.34d08741.chunk.js"
   ]
 }
