@@ -17,7 +17,7 @@ class App extends Component{
     };
   }
   componentDidMount(){ //fetch data from calling api
-    fetch('http://jsonplaceholder.typicode.com/users')
+    fetch('https://jsonplaceholder.typicode.com/users')
       .then(response => response.json())
       .then(items => this.setState({monsters:items}));
       //.then(response => console.log(response));
